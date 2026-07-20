@@ -24,7 +24,7 @@ def get_requirements(file_path: str) -> List[str]:
 # Meta data about the project
 
 setup(
-    name="student_performence_prediction",
+    name="student_performance_prediction",
     version="0.0.1",
     author="Rushikesh Kotha",
     author_email="kotharushikesh084@gmail.com",
